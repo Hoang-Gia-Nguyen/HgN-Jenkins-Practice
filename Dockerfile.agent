@@ -1,5 +1,0 @@
-FROM jenkins/agent:3283.v87f329976378-1-jdk17
-USER root
-RUN apt-get update && apt-get install -y docker.io
-RUN usermod -aG docker jenkins
-USER jenkins
