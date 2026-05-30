@@ -1,0 +1,5 @@
+git:5.7.0
+workflow-aggregator:608.v67378e9d3db_1
+docker-workflow:634.vedc7242b_eda_7
+blueocean:1.27.25
+docker-plugin:1.8.0
