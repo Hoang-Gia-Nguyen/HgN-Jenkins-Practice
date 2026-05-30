@@ -1,5 +1,4 @@
 git:5.9.0
-github:1.47.0
 workflow-aggregator:608.v67378e9d3db_1
 docker-workflow:634.vedc7242b_eda_7
 docker-plugin:1.10.0
